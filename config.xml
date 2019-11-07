@@ -48,7 +48,7 @@
         <platform name="ios">
             <icon height="29" src="res/icon/ios/icon-small.png" width="29" />
             <icon height="58" src="res/icon/ios/icon-small-2x.png" width="58" />
-            <icon height="87" src="res/icon/ios/icon-small-3x.png" width="87" />
+            <!--<icon height="87" src="res/icon/ios/icon-small-3x.png" width="87" />-->
             <icon height="40" src="res/icon/ios/icon-40.png" width="40" />
             <icon height="80" src="res/icon/ios/icon-40-2x.png" width="80" />
             <!--<icon height="120" src="res/icon/ios/icon-40-3x.png" width="120" />-->
